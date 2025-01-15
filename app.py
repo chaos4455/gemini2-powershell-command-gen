@@ -114,7 +114,7 @@ def main():
         st.header("⚙️ Settings")
         
         with st.expander("✨ AI Settings"):
-            model_name = st.selectbox("🤖 AI Model", ["gemini-2.0-flash-exp", "gemini-1.5-flash-exp"], index=0, help="Choose the AI model.")
+            model_name = st.selectbox("🤖 AI Model", ["gemini-2.0-flash-exp", "gemini-1.5-flash"], index=0, help="Choose the AI model.")
             temperature = st.slider("🌡️ Temperature", min_value=0.1, max_value=1.0, value=0.7, step=0.1, help="Adjust the AI's creativity.")
             max_tokens = st.number_input("📏 Max Tokens", min_value=128, max_value=8192, value=8192, step=128, help="Adjust the maximum size of the response.")
             
