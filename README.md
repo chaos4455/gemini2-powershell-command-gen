@@ -10,8 +10,6 @@
 
 Gemini2 PowerShell Command Gen is a web application crafted to simplify and accelerate the creation of PowerShell commands. 🛠️ Powered by **Google's Gemini 2** language model and built with **Streamlit**, this tool offers an intuitive interface for generating efficient, detailed, and customized PowerShell scripts. It's designed to empower both newcomers and seasoned professionals to automate tasks with ease.
 
-![5c9fe506-1e09-4d58-8bcd-841f9ce3cdfd](https://github.com/user-attachments/assets/970e287e-0f7e-435e-a6a6-7bdb953e536e)
-
 ![screencapture-huggingface-co-spaces-chaos4455-Gemini-2-0-Powershell-Command-Gen-ENG-2025-01-15-04_05_08](https://github.com/user-attachments/assets/89a13dc0-08a0-48de-8bac-b895a6ae1f59)
 
 
