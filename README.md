@@ -1,5 +1,8 @@
 # 🚀 Gemini2 PowerShell Command Gen
 
+![5c9fe506-1e09-4d58-8bcd-841f9ce3cdfd](https://github.com/user-attachments/assets/970e287e-0f7e-435e-a6a6-7bdb953e536e)
+
+
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/chaos4455/Gemini-2.0-Powershell-Command-Gen-ENG)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%2300BFFF.svg?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Google Gemini 2](https://img.shields.io/badge/Google_Gemini_2-blue?logo=google-gemini&logoColor=white)](https://ai.google.dev/models/gemini)
